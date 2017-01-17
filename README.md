@@ -3,4 +3,4 @@
 
 ## 默认的一些布局
 ![Screenshot](https://github.com/15018777629/EasyTagEditLayout/blob/master/main.png)
-![https://github.com/15018777629/EasyTagEditLayout/blob/master/tags.png)
+![Screenshot](https://github.com/15018777629/EasyTagEditLayout/blob/master/tags.png)
